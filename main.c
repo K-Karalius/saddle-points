@@ -20,7 +20,7 @@ int main()
 
     int matrixSize;
 
-    int maxMatrixSize = 1000;
+    int maxMatrixSize = 100;
     printf("Enter the size of a matrix [1; %d]:\n", maxMatrixSize);
     matrixSize = GetIntegerInput(1, maxMatrixSize);
 
