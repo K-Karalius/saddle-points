@@ -12,5 +12,6 @@ The application finds saddle point coordinates from the provided square matrix.
 
 * `gcc -o program.exe main.c` to compile
 * `program.exe` to run
+* Follow instructions in the terminal window
 
 
